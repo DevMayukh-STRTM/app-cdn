@@ -1,0 +1,4 @@
+{
+  "command": "exec",
+  "payload": "echo Hello World"
+}
